@@ -5,7 +5,7 @@
 
 # 🌐 Social Media Booster API
 
-API powerful untuk **meningkatkan follower, api follower,api view tiktok,api like tiktok free, like tiktok api, instagram followers,api instagram like, instagram like, like, view, komentar, dan engagement** di berbagai platform media sosial populer seperti **TikTok, Instagram, YouTube, Facebook, Twitter/X, dan lainnya**.
+API powerful untuk **meningkatkan follower, api YouTube, api follower,api view tiktok,api like tiktok free, like tiktok api, instagram followers,api instagram like, instagram like, like, view, komentar, dan engagement** di berbagai platform media sosial populer seperti **TikTok, Instagram, YouTube, Facebook, Twitter/X, dan lainnya**.
 
 Dengan API ini, developer maupun pelaku bisnis bisa mengintegrasikan layanan **SMM (Social Media Marketing)** langsung ke aplikasi, website, atau sistem mereka.
 
